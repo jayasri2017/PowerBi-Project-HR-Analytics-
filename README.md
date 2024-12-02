@@ -1,6 +1,10 @@
 # PowerBi-Project-HR-Analytics-
 Power Bi Project on HR Analytics
 Dashboard Link: https://app.powerbi.com/groups/a0b05096-0323-4632-9271-baa870223b84/reports/be6f0e7b-f012-4988-8259-5d19d3998874/ReportSection7e10738d509697f56bd0?experience=power-bi
+_________________________________________________________________________________________________________________________________________________________________
+Dashboard Snapshots
+
+https://github.com/jayasri2017/PowerBi-Project-HR-Analytics-/blob/b769199f16a0871c898ea9e744f846db7946ed52/DashBoard-Screenshot.png
 ___________________________________________________________________________________________________________________________________________________________________
 Problem Statement
 The HR Analytics Dashboard is designed to provide HR professionals with actionable insights into workforce trends and metrics. It helps monitor employee attrition, analyze job roles, and identify demographic patterns that influence retention. By leveraging this tool, HR teams can make data-driven decisions to improve employee satisfaction and organizational efficiency.
